@@ -46,9 +46,13 @@ export default {
         margin-bottom: 20px;
         width: 350px;
         height: 30px;
+        border: 1px solid black;
     }
     .textarea{
         height: 50px;
+    }
+    .save{
+        color: white !important;
     }
     .delete{
         margin-left: 65%;
