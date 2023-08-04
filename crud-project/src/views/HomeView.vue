@@ -1,8 +1,8 @@
 <template>
   <div class="options">
     <router-link to="/add-books"><p class="user-options">Agregar Libro</p></router-link> |
-    <p class="user-options">Eliminar Libro</p> |
-    <p class="user-options">Editar Libro</p>
+    <router-link to="/delete-books"><p class="user-options">Eliminar Libro</p></router-link> |
+    <router-link to="/update-books"><p class="user-options">Editar Libro</p></router-link>
   </div>
 
   <div class="products">
