@@ -7,6 +7,9 @@ This is my own project about a simple example of a CRUD applied to a Veterinary 
 - Front-end: Vue.js 
 - Back-end: Node.js
 
+## Project Organization
+The frontend part is available at the directory `veterinary-clinic-frontend`, while the backend part is at `veterinary-clinic-backend`.
+
 ## ER Diagram
 
 ```mermaid
