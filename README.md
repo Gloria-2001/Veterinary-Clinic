@@ -28,7 +28,7 @@ erDiagram
     VETERINARIAN ||--|{ PETS : attends
     VETERINARIAN {
         string name
-        string specialty
+        string speciality
         string professional_license
         int id_pet
     }
